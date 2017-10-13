@@ -1,0 +1,20 @@
+{
+    "origin": [
+        "#intext# #lugar# – #dianoche#"
+    ],
+    "intext": [
+        "INT.",
+        "EXT."
+    ],
+    "lugar": [
+        "#casa#",
+        "#restaurant#",
+        "#calle#",
+        "#edificio#",
+        "#misc#"
+    ],
+    "dianoche": [
+        "DÍA",
+        "NOCHE"
+    ]
+}
